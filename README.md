@@ -1,20 +1,35 @@
-# PratoPronto — Projeto reservado
-
-**Espaço para evolução de uma ideia de produto chamada PratoPronto.**
+<div align="center">
+  <h1>🗂️ PratoPronto</h1>
+  <p><strong>Nome de produto reservado no portfólio de experimentos web.</strong></p>
+  <p><img alt="Status" src="https://img.shields.io/badge/status-ideia%20sem%20escopo%20definido-64748b"></p>
+</div>
 
 ## Estado atual
 
-O repositório possui somente documentação mínima nesta revisão. Ainda **não há código-fonte, aplicação publicada, instalação ou funcionalidades implementadas para demonstrar**.
+**Somente o arquivo README está disponível.** Não existem frontend, backend, documentação de arquitetura, protótipo navegável, instalação ou serviços publicados neste repositório.
 
-## Próxima etapa
+O nome **PratoPronto** ainda não determina, por si só, o tipo de aplicação, o público atendido ou seu modelo de negócio. Esses pontos precisam de um escopo explícito antes do desenvolvimento.
 
-Antes de iniciar o desenvolvimento, definir:
+## O que definir antes de começar
 
-1. Público e problema que o produto pretende resolver.
-2. Experiência mínima que será validada.
-3. Tecnologias, fontes de dados e requisitos de privacidade.
-4. Primeira entrega demonstrável e critérios de qualidade.
+| Decisão | Pergunta a responder |
+| --- | --- |
+| Público | Quem utilizaria o produto? |
+| Problema | Qual tarefa concreta precisa ser resolvida? |
+| Primeira experiência | Qual é a menor ação que demonstra valor? |
+| Dados | Quais informações o produto realmente precisa? |
+| Segurança e privacidade | Que dados e permissões precisam de proteção? |
+| Critério de MVP | Como saber se a primeira versão foi útil? |
 
-## Organização
+## Plano de uma primeira entrega
 
-Projeto independente de [Hélio Conde](https://github.com/HelioConde), integrante do portfólio de experimentos web.
+- Documentar um brief de uma página, incluindo o público e o problema.
+- Desenhar uma única jornada de usuário, preferencialmente mobile.
+- Criar um protótipo pequeno e testável.
+- Avaliar o resultado antes de definir integrações, autenticação e infraestrutura.
+
+**Nenhuma dessas etapas é apresentada como concluída.**
+
+Conheça também o [Ideias IA Lab](https://github.com/HelioConde/ideias-ia-lab), que organiza outras iniciativas do portfólio.
+
+Criado por [Hélio Conde](https://github.com/HelioConde).
